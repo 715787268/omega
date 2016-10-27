@@ -7,6 +7,7 @@
   </parent>
   <artifactId>mypro-web</artifactId>
   <packaging>war</packaging>
+  <!-- sdfasdf -->
   <dependencies>
   	<dependency>
   		<groupId>org.springframework</groupId>
