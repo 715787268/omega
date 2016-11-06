@@ -196,6 +196,8 @@
 			    <artifactId>cxf-rt-frontend-jaxws</artifactId>
 			    <version>3.1.7</version>
 			</dependency>
+			
+			<!-- sss -->
 		</dependencies>
 	</dependencyManagement>
 </project>
